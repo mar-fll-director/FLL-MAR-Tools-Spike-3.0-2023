@@ -1,5 +1,5 @@
 # FLL-MAR-Tools-Spike-3.0-2023
-This repo will contain updated FLL My Blocks for Gyro navigateion for Spike Prime 3.0 Robots use in FIRST LEGO League Challenge. Before tackeling this you should check out the earlier version for Spike 2.0 as that had a detailed explanation of how this all worked. 
+This repo will contain updated FLL My Blocks for Gyro navigation for Spike Prime 3.0 Robots use in FIRST LEGO League Challenge. Before tackling this you should check out the earlier version FLL-Gyro-And-Line-Follow-My-Blocks for Spike 2.0 that has a detailed explanation of how this all works. 
 
 This is all explained in a Google Slide deck [Gyro and Line Follow My Blocks Presentation](https://docs.google.com/presentation/d/1Vga1y9exY-jyWSlCoF_mPb3-asiujL25wlZJDBCBb4c/edit?usp=sharing). There is also a [Presentation Video](https://youtu.be/Y-mmc1qfdfc). This video has an index to the major sections. We suggest you view the **Setup The Environment** section at least once and then jump around as you need. 
 
